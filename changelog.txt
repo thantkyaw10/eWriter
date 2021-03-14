@@ -1,0 +1,22 @@
+Version 1.0
+Finished at Daniel's house
+Added eprint
+Had memory leaks but was a working prototype
+First version that worked as intended
+
+Version 1.1 6/31/19
+Implemented first version of openfile and getfile
+Added eWriter.h and eWriter.c for neatness
+Didn't even compile
+
+Version 1.11 7/13/19
+Cleaned up open/get file
+Edited Makefile so it actually compiles
+Implemented scrollup
+Added changelog
+
+Version 1.12 7/13/19
+Got new code to make on pi
+Makes new files
+Scroll up function works
+Fixed end of string bug
